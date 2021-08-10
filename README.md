@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Nishanthi, currently working as Analyst in an IT firm
 - 👀 I’m interested in current trends in technology
 - 🌱 I’m currently learning python and GCP
-- 📫 Reach me :LinkedIn 
+- 📫 Reach me @LinkedIn 
 
 <!---
 Nishanthi-Tech/Nishanthi-Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
